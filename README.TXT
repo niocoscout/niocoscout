@@ -1,25 +1,13 @@
+<!-- Banner estilo "prompt" -->
+<p align="left">
+  <img src="https://raw.githubusercontent.com/niocoscout/niocoscout/main/assets/terminal-header.gif" alt="terminal" width="800"/>
+</p>
 
-## B) Intermedio — “hacker con badges y skills”
-```md
-<!-- ASCII header -->
-██████╗ ██╗   ██╗ █████╗  ██████╗██╗  ██╗
-██╔══██╗██║   ██║██╔══██╗██╔════╝██║ ██╔╝
-██████╔╝██║   ██║███████║██║     █████╔╝ 
-██╔══██╗██║   ██║██╔══██║██║     ██╔═██╗ 
-██║  ██║╚██████╔╝██║  ██║╚██████╗██║  ██╗
-╚═╝  ╚═╝ ╚═════╝ ╚═╝  ╚═╝ ╚═════╝╚═╝  ╚═╝
+# niocoscout ☠️ — /root
+> ░░ Boot sequence complete — welcome back.
 
-# niocoscout — curioso por la oscuridad 🖤
-> `if (coffee) { code++; }`
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api?username=niocoscout&show_icons=true&theme=dark)](https://github.com/niocoscout)
-
-### 🛠 Habilidades
-- `Python` • `Bash` • `Rust` • `Docker` • `Git`
-
-### 🔭 Proyectos
-- **repo-oscuro** — CLI para...  
-- **stealth-web** — PoC de...  
-
-### ✉️ Contacto
-- Email: `nioco.06`  
+```bash
+# status
+> uptime; whoami; git --version
+> last-login: 2025-11-01 05:09 -0300
+> host: localhost
