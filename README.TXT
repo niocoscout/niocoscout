@@ -1,5 +1,13 @@
-Ejemplo (pegalo en tu README donde quieras):
-```md
-![visitors](https://visitor-badge.glitch.me/badge?page_id=TU_USUARIO.TU_USUARIO)
-![twitter follow](https://img.shields.io/twitter/follow/TU_TWITTER?style=social)
-![status](https://img.shields.io/badge/status-active-brightgreen)
+<!-- Banner estilo terminal -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/niocoscout/niocoscout/main/assets/terminal-header.gif" alt="terminal‑banner" width="800"/>
+</p>
+
+# niocoscout ☠️ — /root  
+> ░░ Boot sequence complete — welcome back.
+
+```bash
+# status
+> uptime; whoami; git --version
+> last-login: 2025‑11‑01 05:09 ‑0300
+> host: localhost
