@@ -1,2 +1,2 @@
 # 👨‍💻 niocoscout
-> Bienvenido a mi perfil. ⚡
+> Bienvenido/a a mi perfil. ⚡
