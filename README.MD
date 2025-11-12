@@ -4,7 +4,7 @@
 
 🟢 <b>Backend & Full Stack Developer</b> 🟢  
 💾 <b>PHP • JavaScript • React • Node.js</b> 💾  
-🟢 <i>"El código no duerme. Yo tampoco."</i> 🟢  
+🟢 <i>"Un buen cafecito para arrancar la semana."</i> 🟢  
 
 </p>
 
