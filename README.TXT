@@ -1,6 +1,4 @@
-# 👨‍💻 niocoscout
-> Bienvenido/a a mi perfil. ⚡
-
+<!-- Fondo estilo Matrix -->
 <p align="center">
   <img src="https://media.giphy.com/media/26Ff5rYxbvO5lH6sU/giphy.gif" width="100%" alt="Matrix Rain">
 </p>
