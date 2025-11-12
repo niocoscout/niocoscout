@@ -1,6 +1,6 @@
 <!-- Fondo estilo Matrix -->
 <p align="center">
-  <img src="https://i.gifer.com/3HeZ.gif">
+  <img src="https://i.gifer.com/embedded/download/3HeZ.gif">
 </p>
 
 <h1 align="center">💚 👾 NIOCO DEV 💾 💚</h1>
