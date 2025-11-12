@@ -1,7 +1,8 @@
 <h1 align="center">👾NIOCO DEV 💾</h1>
 
 <p align="center">
-
+<b align="center">
+<i align="center">
 🟢 <b>Backend & Full Stack Developer</b> 🟢  
 💾 <b>PHP • JavaScript • React • Node.js</b> 💾  
 🟢 <i>"Programando a pleno."</i> 🟢  
