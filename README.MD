@@ -1,5 +1,7 @@
 <!-- Fondo estilo Matrix -->
-<img src="https://i.imgur.com/0jQXQjF.gif" width="100%" alt="Matrix Rain">
+<p align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Digital_rain_animation_medium_letters_shine.gif" width="100%" alt="Matrix Rain">
+</p>
 
 <h1 align="center">👾 NIOCO DEV 💾</h1>
 
