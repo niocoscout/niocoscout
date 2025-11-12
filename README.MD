@@ -9,12 +9,12 @@
 </p>
 
 
+
 <p align="center">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdG92dnA5MzNzOW1yYWhjNGFldzhhZ3RrbGt2ZTI4eTZvZXR6bzk2biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/sULKEgDMX8LcI/giphy.gif" width="100%" alt="Matrix Rain">
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWczZ3YxeTd6cmVzZWZpcXFvb3dreXVyd2VsdHdpaXViOGxrZTAyNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Q9aBxHn9fTqKs/giphy.gif">
 </p>
 
 
-
 <p align="center">
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGFoY3FhYXBvZTN2a3dyY2d2eHVhaTRkOTd5Z3N5eWplcXY3cDB2NiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/11FuEnXyGsXFba/giphy.gif" width="200" alt="Matrix code">
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdG92dnA5MzNzOW1yYWhjNGFldzhhZ3RrbGt2ZTI4eTZvZXR6bzk2biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/sULKEgDMX8LcI/giphy.gif" width="100%" alt="Matrix Rain">
 </p>
