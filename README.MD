@@ -1,6 +1,6 @@
 <!-- Fondo estilo Matrix -->
 <p align="center">
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3ZlMzM2ZWJmN2RzNTJmNWk1ZmNsdm9iNnFybjZ1ZXc0MjdzbDRyNSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3oEjI6SIIHBdRxXI40/giphy.gif" width="100%" alt="Matrix Rain">
+  <img src="https://i.gifer.com/3HeZ.gif">
 </p>
 
 <h1 align="center">💚 👾 NIOCO DEV 💾 💚</h1>
